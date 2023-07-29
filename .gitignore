@@ -1,1 +1,4 @@
 node_modules/
+
+# remove node_modules/-  git rm -rf .\node_modules\
+                    # -  git commit -m "removed node modules"
